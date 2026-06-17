@@ -7,6 +7,7 @@ It includes a clean folder structure, placeholder DAGs, transformation scripts, 
 
 ## Project Structure
 
+```
 airflow-data-pipeline-demo/
 │
 ├── dags/                     # Airflow DAG definitions
@@ -20,8 +21,8 @@ airflow-data-pipeline-demo/
 │
 └── config/                   # Config files (connections, variables)
     └── .gitkeep
+```
 
----
 
 ## Features
 
